@@ -14,13 +14,15 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fd
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+#### Hier een link naar mij website: https://anass-kh.github.io/the-client-website/
+Op deze website is een digitale versie van de Buurtcampuskrant te zien. De pagina is opgebouwd met verschillende artikelen over de Buurtcampus-locaties in Amsterdam, zoals Zuidoost, Oost en Nieuw-West. Bovenaan staat een navigatiebalk waarmee je naar de verschillende buurten kunt gaan. Elk artikel bevat een afbeelding, titel en korte beschrijving, zodat je een indruk krijgt van de activiteiten in de buurt.
+
+<img width="1800" height="760" alt="all-devices-black" src="https://github.com/user-attachments/assets/a1cec73d-0d8f-4cf5-a305-8ae9d5021dc9" />
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
+Met HTML is de pagina opgebouwd uit een header met navigatie en een main-gedeelte met alle content, zoals artikelen en afbeeldingen.
+Met CSS is de website vormgegeven en volledig responsief gemaakt met een grid-layout, waardoor de indeling zich aanpast aan het schermformaat van mobiel tot laptop.
+Met een hover-effect heb ik ervoor gezorgd dat de website interactiever aanvoelt, bij het het bewegen met je muis over een artikel springt hij omhoog.
 
 
 ## Licentie
